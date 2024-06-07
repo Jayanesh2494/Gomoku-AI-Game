@@ -21,8 +21,7 @@ Gomoku AI Game is a Python-based implementation of the classic board game Gomoku
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/gomoku-ai-game.git
-    cd gomoku-ai-game
+    git clone https://github.com/Jayanesh2494/Gomoku-AI-Game.git
     ```
 
 2. Install the required dependencies:
@@ -34,4 +33,5 @@ Gomoku AI Game is a Python-based implementation of the classic board game Gomoku
 
 To start the game, run the following command:
 ```bash
-python main.py
+cd source
+python play.py
